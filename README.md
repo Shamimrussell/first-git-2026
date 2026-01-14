@@ -1,2 +1,4 @@
 # first-git-2026
-Version scontroll
+Versions controll
+
+Simple update and commiting changes 
